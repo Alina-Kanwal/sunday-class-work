@@ -1,0 +1,3 @@
+"""jo bh pkg install hongy unky name yhn ajayengy or <pip install -r requirements.txt> run krny say all pkg will install"""
+pytest
+mypy
